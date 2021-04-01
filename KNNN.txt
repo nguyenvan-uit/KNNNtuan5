@@ -1,5 +1,3 @@
 <<<<<<< HEAD
-thu 4
-=======
-lamviec
->>>>>>> 84c5d785e11128ec284bcd0005e0b467dbdbaa62
+thu4
+
